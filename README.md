@@ -1,4 +1,5 @@
 # Groceries
 Groceries Tutorial from Nativescript
 
-http://docs.nativescript.org/angular/tutorial/ng-chapter-3
+Next:
+https://docs.nativescript.org/angular/tutorial/ng-chapter-5
