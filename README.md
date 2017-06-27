@@ -2,4 +2,4 @@
 Groceries Tutorial from Nativescript
 
 Next:
-https://docs.nativescript.org/angular/tutorial/ng-chapter-5
+https://docs.nativescript.org/angular/tutorial/ng-chapter-6
